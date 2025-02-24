@@ -1,55 +1,53 @@
-# YouTube Premium Free
+# YouTube Premium бесплатно
 
-![YouTube Premium](https://github.com/user-attachments/assets/5e8d7fc8-4333-4173-9018-46b5ec970126)
+![Без названия](https://github.com/user-attachments/assets/e4a6fa30-68f0-4dee-856c-2653b0168402)
 
-**Tired of ads? Take back control.**
 
-In a world where digital advertising dominates, it's time to reclaim your viewing experience. YouTubePremiumFree is a userscript designed to liberate you from intrusive ads and unwanted interruptions, giving you the freedom to enjoy YouTube without compromise.
+**Устали от рекламы? Вернуть контроль.**
 
-## Features
+В мире, где доминирует цифровая реклама, пришло время вернуть ваш опыт просмотра. YouTubePremiumFree - это пользовательский фрагмент, предназначенный для того, чтобы освободить вас от навязчивых рекламных объявлений и нежелательных перерывов, что дает вам свободу наслаждаться YouTube без компромисса.
 
-- ✅ **AdBlocker**: Eliminate all forms of advertisements for an uninterrupted viewing experience.
-- ✅ **Premium Title**: Enjoy a premium-themed interface.
-- ✅ **Premium Logo**: Add a professional touch with the premium logo.
-- ✅ **Autoplay Feature**: Seamless playback of videos.
-- ✅ **Premium Resolution**: Automatically switches to HD Premium resolution (customizable).
-- ✅ **Pop-ups Blocker**: Say goodbye to intrusive pop-ups.
-- ✅ **Download Videos and Music**
-- ✅ **Playback History**
-- 🚧 **Offline Mode**: Under development.
+- ✅ **AdBlocker**: Устранение всех форм рекламы для непрерывного опыта просмотра.
+- ✅ **Название премиум-класса**: Наслаждайтесь интерфейсом на тему премиум-класса.
+- ✅ **Премиум логотип**: Добавьте профессиональный штрих с логотипом премиум -класса.
+- ✅ **Функция автопроизводства**: плавное воспроизведение видео.
+- ✅ **Премиальное разрешение**: автоматически переключается на разрешение HD Premium (настраиваемое).
+- ✅ **Всплывающие окна блокировщик**: попрощайтесь с навязчивыми всплывающими окнами.
+- ✅ **Скачать видео и музыку**
+- ✅ **История воспроизведения**
+- 🚧 **Офлайн режим**: в разрабатывании.
 
-## Installation
+## Установка
 
-### 1. Install Tampermonkey
+### 1. Установите Tampermonkey
 
-Install the Tampermonkey browser extension from the official sources below:
+Установите расширение браузера Tampermonkey из официальных источников ниже:
 
-- [Tampermonkey for Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-- [Tampermonkey for Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey/)
-- [Tampermonkey for Safari](https://www.tampermonkey.net/?browser=safari)
-- [Tampermonkey for Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
-- [Tampermonkey for Opera/OperaGX](https://addons.opera.com/extensions/details/tampermonkey-beta/)
+ - [Tampermonkey для Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+ - [Tampermonkey для Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey/)
+ - [Tampermonkey для Safari](https://www.tampermonkey.net/?browser=safari)
+ - [Tampermonkey для Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
+ - [Tampermonkey для Opera/Operagx](https://addons.opera.com/extensions/details/tampermonkey-beta/)
 
-> **Using Android?**  
-> [Get Tampermonkey for Microsoft Edge on Android](https://play.google.com/store/apps/details?id=com.microsoft.emmx) and vote for Tampermonkey in the Extensions menu!
+> **Использование Android?** 
+> [Get TampermonKey для Microsoft Edge на Android](https://play.google.com/store/apps/details?id=com.microsoft.emmx) и проголосовать за Tampermonkey в меню «Расширения»!
 
-2. Enable Developer Mode  
-   To ensure Tampermonkey works without any issues, enable "Developer Mode" in your browser:
+ 2. Включите режим разработчика, чтобы гарантировать, что Tampermonkey работает без каких-либо проблем, включите «режим разработчика» в вашем браузере:
 
-1. Open the **Extensions page** in your browser.
-1. Toggle the **Developer Mode** switch (top-right corner).
+ 1. Откройте страницу **расширения** в вашем браузере.
+ 1. Переключите режим **разработчика** Переключатель (в правом верхнем углу).
 
-> **More Details**: Visit the [Tampermonkey FAQ: Q408](https://www.tampermonkey.net/faq.php#Q408).
+> **Подробнее**: Посетите FAQ [Tampermonkey: Q408](https://www.tampermonkey.net/faq.php#q408).
 
-3. Install the Script
+ 3. Установите сценарий
 
-- **Ad Blocker Script**: [Click here to install](YouTube-Premium-Free.user.js?raw=True).
+ - **Сценарий блокировщика рекламы**: [Нажмите здесь, чтобы установить](YouTube-Premium-Free.user.js?raw=True).
 
-4. Enable the Script
+ 4. Включить сценарий
 
-1. Open the Tampermonkey Dashboard.
-1. Find the script in the list and click the toggle to enable it.
+ 1. Откройте панель панели Tampermonkey.
+ 1. Найдите сценарий в списке и нажмите кнопку, чтобы включить его.
 
-### Enjoy YouTube Premium Free!
+ ### Наслаждайтесь YouTube Premium бесплатно!
 
-Feel free to experience YouTube without ads or interruptions.
+ Не стесняйтесь испытывать YouTube без рекламы или перерывов.
