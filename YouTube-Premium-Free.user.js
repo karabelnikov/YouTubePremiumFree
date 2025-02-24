@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.4.0
 // @description  Get YouTube Premium in your browser totally free
-// @author       Livrädo Sandoval
+// @author       Sergey Karabelnikov
 // @match        *://*.youtube.com/*
 // @match        *://www.youtube.com/*
 // @match        *://m.youtube.com/*
@@ -678,7 +678,7 @@
 
     const i18n = {
         'es': {
-            downloadText: 'Descargar',
+            downloadText: 'Скачать',
             error: {
                 addNormalButton: 'Error al agregar botón de descarga normal:',
                 addShortsButton: 'Error al agregar botón de descarga Shorts:'
